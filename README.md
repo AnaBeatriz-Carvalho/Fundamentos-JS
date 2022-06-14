@@ -1,2 +1,2 @@
 # Fundamentos-JS
-Repositório feito durante meus estudos de JavaScript.
+Repositório feito durante meus estudos dos Fundamentos Básicos do JavaScript.
